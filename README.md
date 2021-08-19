@@ -1,6 +1,6 @@
 # easyocr-basic-calculator
 PT-BR
-O programa ler formulas de equacaoes de 2º grau básicos de uma imagem e o resolve.
+O programa ler formulas de equacoes de 1º grau básicos de uma imagem e o resolve.
 O código faz a utilização da biblioteca easyocr para fazer a leitura  dos dados da imagem e com funções simples da linguagem
 python, diferencia as operações matemáticas e as executa.
 Passos para execução:
@@ -11,7 +11,7 @@ Passos para execução:
 3 - executar o código.
 
 EN
-The program reads basic equation degree 2 from an image and solves them.
+The program reads basic equation degree 1 from an image and solves them.
 The code makes use of the easyocr library to read the image data and with simple language functions
 python, differentiates the mathematical operations and executes them.
 Steps for implementation:
